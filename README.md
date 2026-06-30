@@ -57,3 +57,6 @@ Paste your deployed contract address here.
 
 Baraka S. Kandore
 Avalanche Student Hackathon Tanzania 2026
+
+##link
+ https://github.com/Mictommy21/eduverify-avalanche
